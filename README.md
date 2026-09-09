@@ -142,21 +142,16 @@ idiomas:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Estatísticas Gerais e Linguagens Mais Usadas -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ryanaurelio2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Ryan" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanaurelio2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
-</div>
-
-<div align="center">
-  <!-- Sequência de Contribuições (Streak) -->
-  <img height="165em" src="https://streak-stats.demolab.com?user=ryanaurelio2005&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
+  <!-- Estatísticas Gerais e Linguagens Mais Usadas (Servidor de Alta Disponibilidade) -->
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=ryanaurelio2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ryanaurelio2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <br/>
 
-<!-- Gráfico de Atividade de Contribuição -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanaurelio2005&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Gráfico de Contribuições Semanais" />
+  <!-- Sequência de Contribuições (Streak) -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=ryanaurelio2005&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
 </div>
 
 ---
