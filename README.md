@@ -10,7 +10,7 @@
   <br/><br/>
 
   <!-- Badges de Redes e Acessos -->
-  <a href="https://www.linkedin.com/in/ryan-undefined-bba326412" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-aurelio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ryanaurelio2005@gmail.com" target="_blank">
@@ -107,31 +107,47 @@ idiomas:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📈 Modelagem Estatística & Detecção de Padrões</h3>
+      <h3 align="center">🥋 Python Pure Data Challenges: Pre-OOP Track</h3>
       <p align="center">
-        Investigação conceitual e simulação de modelos de <b>Machine Learning</b> voltados para <b>Detecção de Anomalias</b> (como <i>Isolation Forest</i> e <i>One-Class SVM</i>), aplicando conceitos de álgebra matricial e otimização para identificação de desvios em dados.
+        Bateria completa de 4 desafios de mercado em <b>Python Puro</b> (sem Pandas/NumPy): sanitização defensiva de leads, reconciliação financeira em $O(1)$, mini-motor de métricas de ML (MAE e RMSE na mão) e auditoria de stream de logs com detector de força bruta.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-Modelagem-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Git-Versionamento-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-Pure_Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Engenharia-Dados-00D2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Machine_Learning-Métricas-orange?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/ryanaurelio2005">🔗 Acessar Repositório</a>
+        <a href="https://github.com/ryanaurelio2005/python-pure-data-challenges">🔗 Acessar Repositório</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Automações & Pipelines de Dados em Python</h3>
+      <h3 align="center">📊 Análise de Risco & Vendas em E-Commerce</h3>
       <p align="center">
-        Desenvolvimento de rotinas para extração, limpeza e higienização de arquivos tabulares para cargas em banco de dados relacional (<b>MySQL</b>). Integração com fluxos estruturados de <b>LLMs</b> para suporte e aceleração de análise.
+        Pipeline de análise exploratória de dados e modelagem de risco para transações comerciais. Investigação de faturamento, métricas de conversão e identificação de anomalias em fluxos de compras online.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-Lógica_Funcional-blue?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-Bancos_Relacionais-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLMs-Automação-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-Análise_de_Dados-blue?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Estatística-Modelagem-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Git-Versionamento-F05032?style=flat-square&logo=git&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/ryanaurelio2005">🔗 Acessar Repositório</a>
+        <a href="https://github.com/ryanaurelio2005/ecommerce-sales-risk-analysis">🔗 Acessar Repositório</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>⚡ Python Core & Logic Lab</h3>
+      <p align="center">
+        Laboratório hands-on de fundamentos da linguagem Python: arquitetura de funções limpas, argumentos dinâmicos (<code>*args</code>), desempacotamento de tuplas e algoritmos estruturados para resolução de problemas reais de computação.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Lógica_Algorítmica-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algoritmos-Estruturas-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Clean_Code-PEP8-brightgreen?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ryanaurelio2005/python-core-and-logic">🔗 Acessar Repositório</a>
       </p>
     </td>
   </tr>
@@ -161,7 +177,7 @@ idiomas:
 <div align="center">
   <p>Estou sempre aberto a trocar ideias sobre <b>Machine Learning, Ciência de Dados, IA Generativa</b> e oportunidades de estágio / projetos!</p>
 
-  <a href="https://www.linkedin.com/in/ryan-undefined-bba326412" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-aurelio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Aurélio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
