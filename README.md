@@ -28,26 +28,25 @@
 
 ```yaml
 nome: Ryan Aurélio Melo Feitosa Santos
-idade: 21 anos
 localizacao: Goiânia, GO — Brasil
 formacao: Bacharelado em Ciência de Dados e Inteligência Artificial
 universidade: Pontifícia Universidade Católica de Goiás (PUC Goiás) | 2025 – 2028
 objetivo_de_carreira: Machine Learning Engineer / Data Scientist
 
 foco_e_estudos:
-  - Machine Learning Clássico & Detecção de Padrões (Isolation Forest, One-Class SVM)
-  - Algoritmos, Lógica Funcional e Estruturas de Dados
-  - Bancos de Dados Relacionais, Modelagem e Consultas Avançadas (SQL / MySQL)
-  - Engenharia de Prompts Estruturados, LLMs (Gemini, Claude) e Agentes de IA
+  - Machine Learning & IA Aplicada (Pipelines com Scikit-Learn e LLMs)
+  - Algoritmos, Lógica Funcional e Tratamento Defensivo de Dados em Python
+  - Bancos de Dados Relacionais e Consultas Analíticas (SQL / DuckDB / MySQL)
+  - Automação, Ingestão de Dados não Estruturados (PDFs, CSVs) e Engenharia de Prompts
 
 pilares_tecnicos:
   - Matematica_e_Estatistica: Probabilidade, Estatística Descritiva, Álgebra Linear e Cálculo
-  - Logica_de_Programacao: Algoritmos estruturados (base em VisualG) e Python funcional
-  - Engenharia_de_Software: Automação de processos, higienização de dados e código limpo
+  - Logica_e_Programacao: Tratamento de exceções, complexidade temporal e código limpo (PEP 8)
+  - Engenharia_de_Dados: Validação de contratos de dados, bancos analíticos OLAP e APIs
 
 idiomas:
   - Português: Nativo
-  - Inglês: Leitura e interpretação técnica contínua para documentações e artigos
+  - Inglês: Básico (leitura instrumental de documentações técnicas e artigos)
 ```
 
 ---
@@ -97,24 +96,56 @@ idiomas:
 | Instituição | Curso / Especialidade | Período / Status |
 | :--- | :--- | :---: |
 | **Pontifícia Universidade Católica de Goiás (PUC Goiás)** | **Bacharelado em Ciência de Dados e Inteligência Artificial**<br><sub>• IA, Estruturas de Dados e Algoritmos, Probabilidade e Estatística, Álgebra Linear e Bancos de Dados</sub> | **2025 – 2028**<br>*(Em andamento)* |
-| **Estudo Autônomo & Prático** | **Modelagem de Machine Learning & Detecção de Anomalias**<br><sub>• Simulação prática de modelos como Isolation Forest e One-Class SVM</sub> | **Ativo** |
-| **Estudo Contínuo** | **Inglês Técnico para Computação & Artigos Científicos** | **Contínuo** |
+| **Estudo Autônomo & Prático** | **Engenharia de Dados, Automação & Pipelines com IA**<br><sub>• Ingestão de dados não estruturados (PDF/CSV), bancos analíticos (DuckDB), clusterização e LLMs</sub> | **Ativo** |
+| **Estudo Contínuo** | **Inglês Instrumental (Leitura Técnica de Documentações & Artigos)** | **Contínuo** |
 
 ---
 
-## 🚀 Projetos & Estudos Aplicados
+## 🚀 Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🥋 Python Pure Data Challenges: Pre-OOP Track</h3>
+      <h3 align="center">🍔 iFood Feedback Intelligence</h3>
       <p align="center">
-        Bateria completa de 4 desafios de mercado em <b>Python Puro</b> (sem Pandas/NumPy): sanitização defensiva de leads, reconciliação financeira em $O(1)$, mini-motor de métricas de ML (MAE e RMSE na mão) e auditoria de stream de logs com detector de força bruta.
+        Pipeline híbrido <b>Cluster-then-Summarize</b>: validação dinâmica de contrato de dados, vetorização semântica com <code>gemini-embedding-001</code>, clusterização não supervisionada com <b>K-Means</b>, cálculo determinístico de métricas de negócio via <b>Pandas</b> e síntese executiva por <b>Gemini 3.1 Flash Lite</b>.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ryanaurelio2005/ifood-feedback-intelligence">🔗 Acessar Repositório</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚗 Fenabrave AI & Data Engine</h3>
+      <p align="center">
+        Pipeline moderno de 3 camadas para dados de mercado automotivo: ingestão e ETL de relatórios em PDF com <code>pdfplumber</code>, carga em banco colunar <b>DuckDB (OLAP)</b> de alta performance e interface conversacional <b>Text-to-SQL</b> inteligente com <b>Google Gemini</b>.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ryanaurelio2005/projeto-fenabrave">🔗 Acessar Repositório</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🥋 Python Pure Data Challenges</h3>
+      <p align="center">
+        Bateria completa de 4 desafios de mercado em <b>Python Puro</b> (sem bibliotecas externas): sanitização defensiva de leads, reconciliação financeira em $O(n)$, mini-motor de métricas de ML (MAE e RMSE na mão) e auditoria de stream de logs com detector de força bruta.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-Pure_Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Complexidade-O(n)-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Engenharia-Dados-00D2FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Machine_Learning-Métricas-orange?style=flat-square" />
       </p>
       <p align="center">
         <a href="https://github.com/ryanaurelio2005/python-pure-data-challenges">🔗 Acessar Repositório</a>
